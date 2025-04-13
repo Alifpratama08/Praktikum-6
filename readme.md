@@ -26,12 +26,19 @@ PID: 1   COMMAND: /init
   ![Cuplikan layar 2025-04-13 114517](https://github.com/user-attachments/assets/f0e06c04-2c65-4dcf-9ca2-8f57ef05efc9)
 
      e. jalankan printah berikut
+  
   -$ csh
+  
  ![Cuplikan layar 2025-04-13 115037](https://github.com/user-attachments/assets/b1f74178-bac7-422a-abee-cc2369d3de6f)
+
 -$ who , $ bash , $ ls dan $ sh
+
 ![Cuplikan layar 2025-04-13 115229](https://github.com/user-attachments/assets/9d7aefec-3659-41c4-a1e4-2a6a6b544ee7)
+
 -$ ps
+
 ![image](https://github.com/user-attachments/assets/7f6cccc1-3c10-40bc-b17e-284121e4865d)
+
 PID terbesar: 1275 (sh) Urutan lengkap sampai ke induk utama (PPID = 1) ditelusuri dengan ps -fp [PID]
 
 2. Program prog.sh dengan Trap
