@@ -58,6 +58,7 @@ PID terbesar: 1275 (sh) Urutan lengkap sampai ke induk utama (PPID = 1) ditelusu
    d). Kirim sinyal satu per satu
 
 ![Cuplikan layar 2025-04-13 121638](https://github.com/user-attachments/assets/f2ddaf7a-5e59-470c-9cc1-acc1a5c913e1)
+   
    Nomor sinyal yang digunakan menghentikan proses diatas yaitu $ kill -2 872
 
 3. Program myjob.sh dengan Auto-Hapus File
