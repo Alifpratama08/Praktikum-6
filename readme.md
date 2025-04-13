@@ -44,14 +44,22 @@ PID terbesar: 1275 (sh) Urutan lengkap sampai ke induk utama (PPID = 1) ditelusu
 2. Program prog.sh dengan Trap
 
    a). Buka file prog.sh
+
    ![Cuplikan layar 2025-04-13 121021](https://github.com/user-attachments/assets/898b8e16-be55-4610-8807-0c926923c740)
+ 
    b). Tulis skrip
+
    ![Cuplikan layar 2025-04-13 120511](https://github.com/user-attachments/assets/7e6e19d2-1c63-417f-be40-04b8ba55caf3)
+
    c). Ubah file agar bisa dieksekusi, jalankan program sebagai background, dan catat nomor PID dari proses tersebut
+
    ![Cuplikan layar 2025-04-13 121258](https://github.com/user-attachments/assets/c1e9ebf9-2e4b-4bb7-a2db-285558bde671)
+
    d). Kirim sinyal satu per satu
+
 ![Cuplikan layar 2025-04-13 121638](https://github.com/user-attachments/assets/f2ddaf7a-5e59-470c-9cc1-acc1a5c913e1)
    Nomor sinyal yang digunakan menghentikan proses diatas yaitu $ kill -2 872
+
 3. Program myjob.sh dengan Auto-Hapus File
 
    a). Buka file myjob.sh
